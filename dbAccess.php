@@ -10,9 +10,9 @@
 class dbAccess {
 	protected static $dParams = array(
 						'host' 		=> 'localhost',
-						'user' 		=> 'rdeshapr_ramindu',
-						'password' 	=> '181mihiri',
-						'database'	=> 'rdeshapr_slenlfarmbot'
+						'user' 		=> 'root',
+						'password' 	=> '',
+						'database'	=> 'slenlfarmbot'
 					);
 
 	
